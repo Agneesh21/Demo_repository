@@ -1,4 +1,4 @@
-### First Demo Repository
+## First Demo Repository
 
 #### Bold:
 **Bold font**
@@ -34,10 +34,9 @@
 | Ashok   | Kumar   |
 | Mani    | Kandan  |
 <hr>
-#### Strick out
+
 ~~This method will not work~~
-<hr>
-- [x] this task has been completed<br>
+- [x] this task has been completed
 - [ ] this task is not yet completed
 <hr><br>
 
