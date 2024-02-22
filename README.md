@@ -1,5 +1,5 @@
 ## First Demo Repository
-
+<img src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" height="230" width="270" align="right"><br>
 #### Bold:
 **Bold font**
 ---
@@ -47,3 +47,5 @@ class Javaclass{
   }
 }
 ```
+---
+
